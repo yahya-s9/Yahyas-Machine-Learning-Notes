@@ -1,2 +1,2 @@
-# Yahya-s-Machine-Learning-Notes
+# Yahyas-Machine-Learning-Notes
 Yahya's Machine Learning Notes
