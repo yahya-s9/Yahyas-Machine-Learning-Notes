@@ -1,0 +1,405 @@
+{
+  "main": {
+    "id": "f45cb88f37362b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cad32ec73ff49d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94be444784a208df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/1-Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Vectors"
+            }
+          },
+          {
+            "id": "f0e84fc773bab97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/2- Linear Combinations, Spans and Basis Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- Linear Combinations, Spans and Basis Vectors"
+            }
+          },
+          {
+            "id": "c255cb4b8914eb9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/3-Linear Transformations and Matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Linear Transformations and Matrices"
+            }
+          },
+          {
+            "id": "ce3f8198cc662b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/4-Matrix Multiplication as composition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-Matrix Multiplication as composition"
+            }
+          },
+          {
+            "id": "34e62b02b9bd3db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/5-3D Linear Transformations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5-3D Linear Transformations"
+            }
+          },
+          {
+            "id": "572771bd24cddcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/6-The Determinant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-The Determinant"
+            }
+          },
+          {
+            "id": "a631ac38ff8d1d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/7-Inverse matrices, column space and null space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7-Inverse matrices, column space and null space"
+            }
+          },
+          {
+            "id": "86b62aa2b87d935d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/8-Nonsquare matrices as transformations between dimensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8-Nonsquare matrices as transformations between dimensions"
+            }
+          },
+          {
+            "id": "f92c283a5a11dcf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/9-Dot products and duality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9-Dot products and duality"
+            }
+          },
+          {
+            "id": "0d551c3f053c7156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/10-Cross products.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-Cross products"
+            }
+          },
+          {
+            "id": "8adebe8d7687a6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/11-Cross products in the light of linear transformations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-Cross products in the light of linear transformations"
+            }
+          },
+          {
+            "id": "1a796904ba29cd48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/12-Cramer's rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-Cramer's rule"
+            }
+          },
+          {
+            "id": "9307dadbda836a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/13-Change of basis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13-Change of basis"
+            }
+          },
+          {
+            "id": "1f527d2de527e15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/14-Eigenvectors and Eigenvalues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14-Eigenvectors and Eigenvalues"
+            }
+          },
+          {
+            "id": "60feefd5ac3c905a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/15-trick for computing eigenvalues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15-trick for computing eigenvalues"
+            }
+          },
+          {
+            "id": "08d33409981d9ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/1-Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Vectors"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "749ad4ca0dbc4c8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "938af4b461180911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a78aa69bbd0eb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2affbda8c63762ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c3b1b83461848051",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79d8310472918546",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b39096beca73d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c20b7ce15d51f4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra/1-Vectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-Vectors"
+            }
+          },
+          {
+            "id": "720cdd36cf27145b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear Algebra/1-Vectors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-Vectors"
+            }
+          },
+          {
+            "id": "f622d90a20bbf0e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab4862f2b0fa5b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linear Algebra/1-Vectors.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-Vectors"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "08d33409981d9ac7",
+  "lastOpenFiles": [
+    "Linear Algebra/16-Abstract vector spaces.md",
+    "Linear Algebra/15-trick for computing eigenvalues.md",
+    "Linear Algebra/14-Eigenvectors and Eigenvalues.md",
+    "Linear Algebra/13-Change of basis.md",
+    "Linear Algebra/12-Cramer's rule.md",
+    "Linear Algebra/11-Cross products in the light of linear transformations.md",
+    "Linear Algebra/10-Cross products.md",
+    "Linear Algebra/9-Dot products and duality.md",
+    "Linear Algebra/8-Nonsquare matrices as transformations between dimensions.md",
+    "Linear Algebra/7-Inverse matrices, column space and null space.md",
+    "Linear Algebra/6-The Determinant.md",
+    "Linear Algebra/5-3D Linear Transformations.md",
+    "Linear Algebra/4-Matrix Multiplication as composition.md",
+    "Linear Algebra/3-Linear Transformations and Matrices.md",
+    "Linear Algebra/2- Linear Combinations, Spans and Basis Vectors.md",
+    "Linear Algebra/1-Vectors.md",
+    "D2L.ai",
+    "ML Paper Reading, Reflections",
+    "Linear Algebra"
+  ]
+}
