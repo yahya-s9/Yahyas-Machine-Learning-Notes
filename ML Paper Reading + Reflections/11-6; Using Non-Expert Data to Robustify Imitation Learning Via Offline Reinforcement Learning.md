@@ -48,3 +48,5 @@ https://arxiv.org/abs/2510.19495
 		- https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/
 	- state action space?
 	- diffusion model v a gaussian model?
+	- A question is, are the policies learned via offline RL using non-expert data via this technique, comparable in performance to policies learned from solely expert data? 
+		- if u use this approach, (expert + non expert) is better than only using expert data, depending on data set size
