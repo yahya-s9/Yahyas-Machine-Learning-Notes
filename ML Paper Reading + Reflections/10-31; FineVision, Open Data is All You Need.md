@@ -10,3 +10,5 @@ Speaker: Nick
 - cleaning and dup using embedding, cosine similarity, throw away ones below a treshold
 
 - evaluating different datasets
+
+- questions ur asking are close to what is out there on the internet, so llm not that smart, its an incredible data sponge, model will be triggered by the internal represenation of the question

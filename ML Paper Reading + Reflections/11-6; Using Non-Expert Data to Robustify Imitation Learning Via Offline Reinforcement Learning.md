@@ -1,0 +1,50 @@
+Speaker: Nour Hendy
+
+https://arxiv.org/abs/2510.19495
+
+- came out last week
+- ask question:
+	- in robotic manipulation, we don't have access to a lot of expert data, iomitation learing onlymakes sense if u have near optimal demosntrations, but we can get suboptimal data cheaper, preforms better than expensive expert level data
+	- how to combine the two to get a better policy?
+	- focus on robotic manipulation setting. 
+	- low "data regime"
+	- most ppl have tons of non-expert data, less expert level data.
+	- offline RL gas promise that without access to simulator, u can lewarn offline without needing simulation in a causal way a policy that preforms well
+	- intuition for offline RL is that u can stitch partial demonstrations
+- approaches:
+	- use all data that u have, but spend time in curation, filtering, to data thats near optimal. but that takes a lot of work
+	- can we use cheaper sources of data without filtering to improve imitation learning?
+- offline rl
+	- treats all data as arbitrary off policy data
+	- learn better policy through rewards and temporal diff learning
+	- be pessimistic ab value function so u don't deviate outside of data distrbution
+	- need a good reward fuction
+	- less need for simulator.
+	- do rl without a simulator, based on dynamic programming, learn stitching, impose pessimism bias.
+	- also there is model based offline rl.
+- online rl
+	- need a good simulator
+	- access to reward function
+- proposal:
+	- SQIL (soft queue imitiation learning) prev paper : if u need RL in closed loop, treat data that u want to imitiate as off policy data. things u want to imitate get rewarded. applied it in online RL setting (in a simulation)
+	- take that idea, do offline RL, intuition that the model would learn through stitching to recover from bad state to expert state distribution.
+	- issue: 
+		- sparse reward, and no simulator means less sample efficiency.
+		- if HD state action space ur cooked.
+	- so high level u say choose what to imitate / non imitate
+	- two regularization tricks to make it work in HD state action space
+- IMPQL: implicit diffusion q learning
+
+- questions
+	- stitching?
+		- u have a bunch of demonstrations that yuve seen
+		- cost function tells how good these are
+		- in earlier training u saw bad demonstrations, in early part of maze
+		- then later saw good demonstations later, cost tells u which one good
+		- stitching = stitch good early on, and good later on.
+		- eventually learn policy: pick good from begining and end.
+	- Why stitching not happenign in regularl RL?
+		- this is still regular rl but not with a simulator in this case
+		- https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/
+	- state action space?
+	- diffusion model v a gaussian model?
