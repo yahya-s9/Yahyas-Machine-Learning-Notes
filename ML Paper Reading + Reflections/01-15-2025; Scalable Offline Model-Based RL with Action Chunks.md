@@ -64,4 +64,4 @@ Me chatting with notebooklm:
 	- horizon = how many steps a task takes to finish
 	- long horizon tasks (like solving a multi step puzzle) are difficult because small mistakes early can lead to total failure much later
 - Model Based RL: 
-	- to plane ahead the agent creates a world model or similar to imagine what will happen if it takes certain actions?
+	- to plane ahead the agent creates a world model or similar to imagine what will happen if it takes certain actions??
