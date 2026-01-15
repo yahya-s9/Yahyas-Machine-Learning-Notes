@@ -1,0 +1,2 @@
+
+"You should be comfortable with vector calculus (including gradients and the multivariate chain rule), matrix operations, probability theory (including conditional probability and Bayes’ rule). If you lack preparation in these areas, you are likely to struggle."

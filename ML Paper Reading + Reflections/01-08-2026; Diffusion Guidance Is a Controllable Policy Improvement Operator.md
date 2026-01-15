@@ -53,9 +53,9 @@ proposal: diffusion guidance is a controllable policy improvement operator
 
 --- 
 
-Classifier free gudiance 
-- i dont need to have a seperate classifier being trained
-- given image tell me if its a cat or dog
+Classifier free guidance 
+- i don't need to have a separate classifier being trained
+- classifier: given image tell me if its a cat or dog
 
 
 --- 
@@ -63,14 +63,20 @@ Classifier free gudiance
 classifier free guidance rl:
 - ...
 
+CFGRL sweep can be performed at test time over a single network without need for retraining
 
 --- 
 
+- goal conditioned behavior cloning
+- 
+
+
+
+--- 
 
 Questions:
 - what is advantage? objective? advantage weighted regression? flow matching? classifier guidance ? classifier guidance free (training framework for diffusion models)?
 - behavior cloning? attentuation?
 - diffusion or flow matching denoises actions ?
-- - conditional and unconditional distributions?
+- conditional and unconditional distributions?
 - diffusion model?
-- 
