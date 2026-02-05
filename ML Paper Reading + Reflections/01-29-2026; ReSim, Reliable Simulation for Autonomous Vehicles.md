@@ -34,9 +34,6 @@ World model?
 - Need physics of a game engine, onto visual reality of video 
 - Prior models like vista or gen ad were great at photo realism but failed action controllability test, good driver bias 
 - So with those If scenario is highway driving and u say turn right, 
-
-  
-
   
 
 How to break bias?
@@ -150,7 +147,7 @@ testing?
 - ReSim beat competitors, some even trained on new scenes.
 - metrics? scoring realism: FiD and FeD
 - FiD measures image quality: does this frame look like an image
-- FeD measures temporal consistency: does video flow like real video
+- FvD measures temporal consistency: does video flow like real video
 - lower is better.
 - ReSim scored significantly lower than baselines on both
 
