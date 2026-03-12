@@ -94,6 +94,8 @@ CMU, Stanford, Nvidia
 	- t = planning horizon
 		- how far into future car trying to simulate
 
+- - 
+
 - we can see why E2E models fail in closed loop settings
 	- 1st) observation mismatch:
 		- ai model trained offline on human data
@@ -102,6 +104,7 @@ CMU, Stanford, Nvidia
 		- suddenly operating out of distribution
 		- they note this is the minor issue
 	- 2nd) objective mismatch
+		- open loop models trained to copy behaviors of some other experts, but thats not hte objective. the objective is to drive safely, reach the goal. open loop models use a proxy objective. problem with end to end models, you need to find a way to simulate the input
 		- open loop minimizes imitation error compared to an expert's trajectory
 		- ai minimizing risk or error between steering angle and human steering angle in training data
 		- ai playing giant matching game. it sees picture of a road, in sees human turned steering wheel 5 degrees to here i will turn it 5 degrees
