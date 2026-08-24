@@ -2,7 +2,7 @@
 
 # Essence of Linear Algebra — Notes
 
-Notes from 3Blue1Brown's [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) playlist, split into one PDF per chapter.
+My Handwritten Notes from 3Blue1Brown's [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) playlist, split into one PDF per chapter.
 
 | File | Chapter(s) |
 |---|---|
