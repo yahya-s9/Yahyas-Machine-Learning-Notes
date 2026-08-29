@@ -1,5 +1,6 @@
-# Yahyas-Machine-Learning-Notes
-Self studying ml stuff to push myself, handwritten notes for retention
+# Yahya's Machine Learning Notes
+Self studying ml stuff to push myself and not doomscroll
+handwritten notes for retention.
 
 - [x] 3b1b linear algebra series
 - [ ] 3b1b neural networks series
