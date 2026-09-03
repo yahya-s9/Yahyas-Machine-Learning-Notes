@@ -10,3 +10,4 @@ A handwritten note PDF will be added here for each episode as I go through the s
 |---|---|
 | `01 - But what is a neural network.pdf` | 1 |
 | `02 - Gradient descent, how neural networks learn.pdf` | 2 |
+|`03 - Backpropgation` | 3 |
