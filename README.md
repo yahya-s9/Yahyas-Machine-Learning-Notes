@@ -8,4 +8,4 @@ handwritten notes for retention. <br>
 - [ ] Afshine & Shervine Amidi's CME296: Diffusion & Large Vision Models @ Stanford
 - [ ] Afshine & Shervine Amidi's CME295: Transformers & Large Lanugage Models @ Stanford
 - [ ] Dive into Deep Learning (D2L.ai)
-- [ ] 
+- [ ] Umar Jamil's Distributed Training Course
