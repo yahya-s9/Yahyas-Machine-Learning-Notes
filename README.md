@@ -7,5 +7,6 @@ handwritten notes for retention. <br>
 - [ ] Andrej Karpathy: Neural Networks Zero to Hero
 - [ ] Afshine & Shervine Amidi's CME296: Diffusion & Large Vision Models @ Stanford
 - [ ] Afshine & Shervine Amidi's CME295: Transformers & Large Lanugage Models @ Stanford
+- [ ] Percy Liang's CS336: Language Modeling from Scratch @ Stanford
 - [ ] Dive into Deep Learning (D2L.ai)
 - [ ] Umar Jamil's Distributed Training Course
