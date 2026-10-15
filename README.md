@@ -10,4 +10,5 @@ handwritten notes for retention. <br>
 - [ ] Percy Liang's CS336: Language Modeling from Scratch @ Stanford
 - [ ] Dive into Deep Learning (D2L.ai)
 - [ ] Umar Jamil's Distributed Training Course
-- [ ] Jacob Austin’s how to scale your model 
+- [ ] Jacob Austin’s how to scale your model
+- [ ] Wafer Ai's AI perf eng repo
