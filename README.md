@@ -12,3 +12,4 @@ handwritten notes for retention. <br>
 - [ ] Umar Jamil's Distributed Training Course
 - [ ] Jacob Austin’s how to scale your model
 - [ ] Wafer Ai's AI perf eng repo
+- [ ] Stanford CS349D: AI Inference Infrastructure
