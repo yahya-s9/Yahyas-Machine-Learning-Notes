@@ -13,3 +13,4 @@ handwritten notes for retention. <br>
 - [ ] Jacob Austin’s how to scale your model
 - [ ] Wafer Ai's AI perf eng repo
 - [ ] Stanford CS349D: AI Inference Infrastructure
+- [ ] [Sebastian Raschka's Building Reasoning Models from the Ground Up: A Full Video Course](https://magazine.sebastianraschka.com/p/building-reasoning-models?utm_source=email&redirect=app-store-no-desktop&inbox=true&utm_campaign=email-read-in-app&triedRedirect=true)
